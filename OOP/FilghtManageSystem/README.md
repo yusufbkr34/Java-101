@@ -1,5 +1,6 @@
 ## Object Oriented Programming > Uçuş Yönetim Sistemi
 
+<br>
 
 Uçuşların ve pilotların yönetimi için bir sistem tasarlayın.
 
@@ -12,6 +13,8 @@ Uçuşların ve pilotların yönetimi için bir sistem tasarlayın.
 - Hava yolu şirketlerinin pilotları vardır ve her pilotun bir deneyim seviyesi mevcuttur.
 - Bir uçak tipi, belirli sayıda pilota ihtiyaç duyabilir.
 
-Bu sistemi tasvir eden Class(Sınıf) diyagramını çiziniz.
+Bu sistemi tasvir eden Class(Sınıf) diyagramını çiziniz..
+
+<br>
 
 ![image](fly.png)
