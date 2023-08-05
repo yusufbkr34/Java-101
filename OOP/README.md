@@ -7,5 +7,6 @@ Patika platformundaki OOP ödevleri
 • Hayvanat Bahçesi Yönetimi
 • Uçuş Yönetim Sistemi
 • Online Film Sistemi
+• Asansör Kontrol Sistemi
 
 ```
