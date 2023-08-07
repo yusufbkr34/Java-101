@@ -1,3 +1,6 @@
 # Java-101
 
-## This includes all projects under the Java101 course.
+```
+Bu repo Patika eğitim platformundaki java 101 dersinin ödevlerini ve pratiklerini içerir.
+
+```
