@@ -1,6 +1,7 @@
+package myList;
 public class Main {
     public static void main(String[] args) {
-        MyList<Integer> list = new MyList<>();
+        myList<Integer> list = new myList<>();
         System.out.println("List of : " + (list.isEmpty() ? "Empty" : "Full"));
         list.add(10);
         list.add(20);
@@ -16,7 +17,7 @@ public class Main {
         System.out.println("Indeks : " + list.lastIndexOf(20));
         Object[] dizi = list.toArray();
         System.out.println("Object arrays first element : " + dizi[0]);
-        MyList<Integer> altListem = list.subList(0, 3);
+        myList<Integer> altListem = list.subList(0, 3);
         System.out.println(altListem.toString());
         System.out.println("value 20 in the list : " + list.contains(20));
         System.out.println("value 120 in the list : " + list.contains(120));
