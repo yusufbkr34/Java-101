@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class Multipleof4N5 {
     public static void main(String[] args) {
      
-        
+        //Java döngüler ile girilen sayıya kadar olan 4 ve 5'in kuvvetlerini ekrana yazdıran programı yazıyoruz.
         
         int n;
 
