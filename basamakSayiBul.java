@@ -10,7 +10,7 @@ public class basamakSayiBul {
         int sayi = scan.nextInt();
 
         while (sayi > 0) {
-            sayi /= 10; 
+            sayi /= 10; // sayi = sayi / 10;
             sayac++;
         }
         System.out.println("Girdiginiz sayinin basamak sayisi = " + sayac);
