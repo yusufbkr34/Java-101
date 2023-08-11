@@ -1,8 +1,11 @@
 import java.util.Scanner;
 
+
 public class toplamaCarpma {
     
     public static void main(String[] args) {
+
+        // Java'da Çarpma İşlemini Toplama İşlemi Olarak Yapma
         
         Scanner scan = new Scanner(System.in);
         int toplam = 0;
