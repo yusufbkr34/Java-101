@@ -12,3 +12,27 @@ public class saniyeDakikaCevrimi {
         System.out.println(milliseconds + " Milisaniye = " + minutes + " Dakika");
     }
 }
+
+/*
+ ******************* Matematiksel Formül Kullanarak Milisaniyeden Saniyeye/Dakikaya  Çevirme****************
+ * 
+ * 
+ * // milisaniyeyi saniyeye çevir
+ * Saniye = milisaniye / 1000
+ * 
+ *  // milisaniyeyi dakikaya çevir
+ * dakika = (milisaniye / 1000) / 60
+ * 
+ * // saniyeyi dakikaya çevir
+ * dakika = saniye / 60
+ * 
+ * 
+ * 
+ * 
+ * 
+ * 
+ * 
+ * 
+ * 
+ * 
+ */
