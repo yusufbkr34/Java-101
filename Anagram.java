@@ -1,7 +1,5 @@
 public class Anagram {
-    public static void main(String args[]) {
-        System.out.print(isAnagram("özge", "göze"));    
-    }
+    
 
     public static boolean isAnagram(String word, String anagram) {
         if (word.length() != anagram.length()) {
@@ -17,5 +15,8 @@ public class Anagram {
             }
         }
         return anagram.isEmpty();
+    }
+    public static void main(String args[]) {
+        System.out.print(isAnagram("özge", "göze"));    
     }
 }
